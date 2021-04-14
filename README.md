@@ -61,7 +61,7 @@ The backend data uses a fixed set of cached search results and is limited to the
 ## Functionality
 ### Desktop View
 In desktop view, the list sits in a panel that opens and closes left to allow a full screen map view.
-![enter image description here](http://gdurl.com/WUiZ)
+![enter image description here](https://drive.google.com/file/d/1OASdcHt_fVNCxwGmX5nQNfxKDvI20jIG/view?usp=sharing)
 
 ### Mobile View
 ![Mobile View](http://gdurl.com/Xumm)
