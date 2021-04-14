@@ -64,16 +64,16 @@ In desktop view, the list sits in a panel that opens and closes left to allow a 
 ![enter image description here](https://drive.google.com/uc?export=view&id=1OASdcHt_fVNCxwGmX5nQNfxKDvI20jIG)
 
 ### Mobile View
-![Mobile View](http://gdurl.com/Xumm)
+![Mobile View](https://drive.google.com/uc?export=view&id=1Z2L1SYmvLRHzMTdQk40yi8PXpDOkSlMs)
 
 **Note at the bottom of the screen in Mobile view the button.**
 
-![Toggle Button to toggle list view and map view in mobile](http://gdurl.com/o8Pe)
+![Toggle Button to toggle list view and map view in mobile](https://drive.google.com/uc?export=view&id=1DunJ1W8qWf8aHh4w74qmXUrzS9s_rxSo)
 
 When the list is in view, the button says show map, and when the map is in view the button says show list.
 
 ### Markers
-![Markers](http://gdurl.com/TM8f)
+![Markers](https://drive.google.com/uc?export=view&id=1HEtkJ5TcGIdI6zsLD3QmUMRGevsfhGYd)
 
 **In Desktop view**, when a marker is clicked on, the marker is magenta. When hovered, the marker is blue and will also bobble then stop.
 
@@ -85,13 +85,13 @@ When the list is in view, the button says show map, and when the map is in view 
 
 ## Error Handling
 ### Offline Error Handling
-![Offline Error Handling](http://gdurl.com/8thN)
+![Offline Error Handling](https://drive.google.com/uc?export=view&id=1ru-3icgx9AelJF4g3-1q8MxAbz_eOOYM)
 
 ### Handling Fetch Errors
-![Handling Fetch Errors](http://gdurl.com/Z4eM)
+![Handling Fetch Errors](https://drive.google.com/uc?export=view&id=1N4uOpAHTyQjw-qzPjWwENT-fq8EtCyb9)
 
 ### Handling Google API Errors
-![enter image description here](http://gdurl.com/iQZU)
+![enter image description here](https://drive.google.com/uc?export=view&id=1Gv59NfwwHB0jA46ep_aYVIFsbkt3fYL2)
 
 ## A11y
 
